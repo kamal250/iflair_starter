@@ -1,3 +1,10 @@
+# Gatsby WordPress Demo
+
+## Purpose of this project
+Demonstrate Gatsby as frontend and WordPress as backend
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kamal250/iflair_starter)
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">

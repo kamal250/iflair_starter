@@ -39,6 +39,11 @@ progress {
 template {
   display: none;
 }
+nav a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -516,6 +521,7 @@ ol li {
 }
 ul li {
   padding-left: 0;
+  list-style: none;
 }
 li > ol {
   margin-left: 1.45rem;
