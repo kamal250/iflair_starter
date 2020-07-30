@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
 import PropTypes from "prop-types"
-import DOMPurify from "dompurify";
 import Layout from "./../components/layout"
 import SEO from "./../components/seo"
 
@@ -10,7 +9,7 @@ const Post = (props) => {
     return <Layout>
         <SEO title={post.title} />
         <h1>{post.title}</h1>
-        <div dangerouslySetInnerHTML={{__html: DOMPurify.sanitize(post.content)}} />
+        <div dangerouslySetInnerHTML={{__html: post.content}} />
     </Layout>
 }
 
