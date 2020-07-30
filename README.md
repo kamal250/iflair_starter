@@ -3,6 +3,8 @@
 ## Purpose of this project
 Demonstrate Gatsby as frontend and WordPress as backend
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7cf0c0e6-a7c4-411d-89c3-0c557b66dd03/deploy-status)](https://app.netlify.com/sites/trusting-austin-27f55d/deploys)
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kamal250/iflair_starter)
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
